@@ -8,7 +8,7 @@ namespace makeHabit
         {
             InitializeComponent();
 
-            MainPage = new makeHabitPage();
+            MainPage = new StartPage();
         }
 
         protected override void OnStart()
